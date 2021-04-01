@@ -23,7 +23,7 @@ applicable agreement for further details.
 	(input)
 	(rect 216 -8 232 160)
 	(text "INPUT" (rect 0 125 10 153)(font "Arial" (font_size 6))(vertical))
-	(text "MorSS" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "MorSS" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 168)
 	(drawing
 		(line (pt 12 84)(pt 12 109))
@@ -40,7 +40,7 @@ applicable agreement for further details.
 	(input)
 	(rect 184 -8 200 160)
 	(text "INPUT" (rect 0 125 10 153)(font "Arial" (font_size 6))(vertical))
-	(text "SorS" (rect 0 5 12 29)(font "Arial" )(vertical))
+	(text "SorS" (rect 0 5 12 28)(font "Arial" )(vertical))
 	(pt 8 168)
 	(drawing
 		(line (pt 12 84)(pt 12 109))
@@ -57,7 +57,7 @@ applicable agreement for further details.
 	(input)
 	(rect 152 -8 168 160)
 	(text "INPUT" (rect 0 125 10 153)(font "Arial" (font_size 6))(vertical))
-	(text "DIGITO4" (rect 2 5 14 49)(font "Arial" )(vertical))
+	(text "DIGITO4" (rect 2 5 14 48)(font "Arial" )(vertical))
 	(pt 8 168)
 	(drawing
 		(line (pt 12 84)(pt 12 109))
